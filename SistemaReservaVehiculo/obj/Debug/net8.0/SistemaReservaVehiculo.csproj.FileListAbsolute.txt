@@ -1,0 +1,14 @@
+C:\Users\genes\OneDrive\Escritorio\SistemaReservaVehiculo\SistemaReservaVehiculo\obj\Debug\net8.0\SistemaReservaVehiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\genes\OneDrive\Escritorio\SistemaReservaVehiculo\SistemaReservaVehiculo\obj\Debug\net8.0\SistemaReservaVehiculo.AssemblyInfoInputs.cache
+C:\Users\genes\OneDrive\Escritorio\SistemaReservaVehiculo\SistemaReservaVehiculo\obj\Debug\net8.0\SistemaReservaVehiculo.AssemblyInfo.cs
+C:\Users\genes\OneDrive\Escritorio\SistemaReservaVehiculo\SistemaReservaVehiculo\obj\Debug\net8.0\SistemaReservaVehiculo.csproj.CoreCompileInputs.cache
+C:\Users\genes\OneDrive\Escritorio\SistemaReservaVehiculo\SistemaReservaVehiculo\bin\Debug\net8.0\SistemaReservaVehiculo.exe
+C:\Users\genes\OneDrive\Escritorio\SistemaReservaVehiculo\SistemaReservaVehiculo\bin\Debug\net8.0\SistemaReservaVehiculo.deps.json
+C:\Users\genes\OneDrive\Escritorio\SistemaReservaVehiculo\SistemaReservaVehiculo\bin\Debug\net8.0\SistemaReservaVehiculo.runtimeconfig.json
+C:\Users\genes\OneDrive\Escritorio\SistemaReservaVehiculo\SistemaReservaVehiculo\bin\Debug\net8.0\SistemaReservaVehiculo.dll
+C:\Users\genes\OneDrive\Escritorio\SistemaReservaVehiculo\SistemaReservaVehiculo\bin\Debug\net8.0\SistemaReservaVehiculo.pdb
+C:\Users\genes\OneDrive\Escritorio\SistemaReservaVehiculo\SistemaReservaVehiculo\obj\Debug\net8.0\SistemaReservaVehiculo.dll
+C:\Users\genes\OneDrive\Escritorio\SistemaReservaVehiculo\SistemaReservaVehiculo\obj\Debug\net8.0\refint\SistemaReservaVehiculo.dll
+C:\Users\genes\OneDrive\Escritorio\SistemaReservaVehiculo\SistemaReservaVehiculo\obj\Debug\net8.0\SistemaReservaVehiculo.pdb
+C:\Users\genes\OneDrive\Escritorio\SistemaReservaVehiculo\SistemaReservaVehiculo\obj\Debug\net8.0\SistemaReservaVehiculo.genruntimeconfig.cache
+C:\Users\genes\OneDrive\Escritorio\SistemaReservaVehiculo\SistemaReservaVehiculo\obj\Debug\net8.0\ref\SistemaReservaVehiculo.dll
